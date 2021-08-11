@@ -4,14 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".feature.HomeFragment">
 
     <TextView
         android:id="@+id/txtString"
         android:layout_width="199dp"
         android:layout_height="46dp"
         android:layout_marginTop="32dp"
-        android:text="@string/textview1"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"

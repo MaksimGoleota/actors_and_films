@@ -23,5 +23,3 @@ class HomeFragment: DaggerFragment(){
        view.findViewById<TextView>(R.id.txtString).text = text
     }
 }
-
-

@@ -17,6 +17,5 @@ class MainActivity : DaggerAppCompatActivity() {
 
         val graph = navController.navInflater.inflate(R.navigation.navigation)
         navController.graph = graph
-
     }
 }
